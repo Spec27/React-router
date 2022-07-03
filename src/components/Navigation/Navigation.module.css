@@ -1,0 +1,11 @@
+.Link{
+    text-decoration: none;
+    color: black;
+    margin-right: 25px;
+}
+
+.ActiveLink{
+    color: rgb(8, 142, 151);
+    text-decoration: none;
+    margin-right: 25px;
+}

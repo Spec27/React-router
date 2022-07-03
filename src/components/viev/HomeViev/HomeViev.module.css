@@ -1,0 +1,10 @@
+.Container{
+    width: 800px;
+    height: auto;
+    padding: 20px;background-color: bisque;
+    text-align: center;
+    
+}
+.Title{
+    color: rgb(3, 3, 75);
+}
