@@ -7,7 +7,6 @@ const Navigation = () => {
     return (
         <nav>
             <NavLink
-                exact
                 className={setActive}
                 to='/'>Home
             </NavLink>
@@ -19,7 +18,7 @@ const Navigation = () => {
             
             <NavLink
                 className={setActive}
-                to='/Boocs'>Boocs
+                to='/Books'>Boocs
             </NavLink>
       </nav>  
     )

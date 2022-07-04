@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Garri Potter",
+    "genre": "fantasy",
+    "img": "https://kor.ill.in.ua/m/610x385/2682936.jpg",
+    "AuthorId": 1
+  },
+  {
+    "id": 2,
+    "title": "The Lord of the Rings",
+    "genre": "fantasy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1T2ZmhwE4yWyNNffMhKaVYK83kFemD9rio4osgpyntf7pg1RC9eOP1p7r5hOyID7Qc8I&usqp=CAU",
+    "AuthorId": 1
+  },
+  {
+    "id": 3,
+    "title": "Fantastic Beasts",
+    "genre": "fantasy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpAa4JxUdOX-WXGpWC4lRVdi-h0H2N6m1Pw&usqp=CAU",
+    "AuthorId": 1
+  },
+  {
+    "id": 4,
+    "title": "The Hobit",
+    "genre": "fantasy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz47G67IQgJMhBgy_10QgCV6as1ga2184jgQ&usqp=CAU",
+    "AuthorId": 1
+  },
+  {
+    "id": 5,
+    "title": "Warcraft",
+    "genre": "fantasy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQDihfygjAk1CCfJzaXW223U7jX2NYUasaQ&usqp=CAU",
+    "AuthorId": 1
+  }
+]
