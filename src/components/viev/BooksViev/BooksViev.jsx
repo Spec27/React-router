@@ -3,6 +3,7 @@ import s from './BooksViev.module.css'
 
 const BooksViev = ({ books }) => {
     const url = useLocation()
+    
     return (
         <>
             <div className={s.Container}>

@@ -9,6 +9,7 @@ import books from "../data/books.json";
 import BooksDetailsViev from "./viev/BooksDetailsViev";
 
 
+
 export const App = () => {
   return (
     <div
@@ -21,13 +22,15 @@ export const App = () => {
     >
       <>
         <div className={s.container}>
-        <AppBar />
-      <Routes>
-            <Route path="/" element={<HomeVievs />} exact />
-            <Route path="/Author" element={<AutorViev />} />
-            <Route path="/Books" element={<BooksViev books={books} exact/>} />
-            <Route path="/Books/:bookId" element={<BooksDetailsViev books={books} />} />
+        
+          <Routes>
+            <Route path="/" element={<AppBar />}>
+            <Route index element={<HomeVievs />} />
+            <Route path="Author" element={<AutorViev />} />
+            <Route path="Books" element={<BooksViev books={books}/>} />
+            <Route path="Books/:bookId" element={<BooksDetailsViev books={books} />} />
             <Route path="*" element={ <NotFoundViev/>} />
+          </Route>   
       </Routes>
         </div>
       </>
