@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/81.69439473.chunk.css","mappings":"AAAA,0BAEI,SAAU,CACV,iBACJ","sources":["components/viev/NotFoundViev/NotFoundViev.module.css"],"sourcesContent":[".Text{\n    \n    color: red;\n    text-align: center;\n}"],"names":[],"sourceRoot":""}

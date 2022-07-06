@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/React-router/static/css/main.4d7ca98b.css",
-    "main.js": "/React-router/static/js/main.d2f2ff43.js",
+    "main.css": "/React-router/static/css/main.4b8ffe8c.css",
+    "main.js": "/React-router/static/js/main.3a14479a.js",
+    "static/css/674.47722cf7.chunk.css": "/React-router/static/css/674.47722cf7.chunk.css",
+    "static/js/674.ed753cb3.chunk.js": "/React-router/static/js/674.ed753cb3.chunk.js",
+    "static/css/372.f7aeefe2.chunk.css": "/React-router/static/css/372.f7aeefe2.chunk.css",
+    "static/js/372.e398a4bd.chunk.js": "/React-router/static/js/372.e398a4bd.chunk.js",
+    "static/css/212.09ed1dab.chunk.css": "/React-router/static/css/212.09ed1dab.chunk.css",
+    "static/js/212.83b4b48e.chunk.js": "/React-router/static/js/212.83b4b48e.chunk.js",
+    "static/css/81.69439473.chunk.css": "/React-router/static/css/81.69439473.chunk.css",
+    "static/js/81.27a53447.chunk.js": "/React-router/static/js/81.27a53447.chunk.js",
+    "static/css/859.e79d6ef5.chunk.css": "/React-router/static/css/859.e79d6ef5.chunk.css",
+    "static/js/859.35f3a16f.chunk.js": "/React-router/static/js/859.35f3a16f.chunk.js",
     "index.html": "/React-router/index.html",
-    "main.4d7ca98b.css.map": "/React-router/static/css/main.4d7ca98b.css.map",
-    "main.d2f2ff43.js.map": "/React-router/static/js/main.d2f2ff43.js.map"
+    "main.4b8ffe8c.css.map": "/React-router/static/css/main.4b8ffe8c.css.map",
+    "main.3a14479a.js.map": "/React-router/static/js/main.3a14479a.js.map",
+    "674.47722cf7.chunk.css.map": "/React-router/static/css/674.47722cf7.chunk.css.map",
+    "674.ed753cb3.chunk.js.map": "/React-router/static/js/674.ed753cb3.chunk.js.map",
+    "372.f7aeefe2.chunk.css.map": "/React-router/static/css/372.f7aeefe2.chunk.css.map",
+    "372.e398a4bd.chunk.js.map": "/React-router/static/js/372.e398a4bd.chunk.js.map",
+    "212.09ed1dab.chunk.css.map": "/React-router/static/css/212.09ed1dab.chunk.css.map",
+    "212.83b4b48e.chunk.js.map": "/React-router/static/js/212.83b4b48e.chunk.js.map",
+    "81.69439473.chunk.css.map": "/React-router/static/css/81.69439473.chunk.css.map",
+    "81.27a53447.chunk.js.map": "/React-router/static/js/81.27a53447.chunk.js.map",
+    "859.e79d6ef5.chunk.css.map": "/React-router/static/css/859.e79d6ef5.chunk.css.map",
+    "859.35f3a16f.chunk.js.map": "/React-router/static/js/859.35f3a16f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d7ca98b.css",
-    "static/js/main.d2f2ff43.js"
+    "static/css/main.4b8ffe8c.css",
+    "static/js/main.3a14479a.js"
   ]
 }
